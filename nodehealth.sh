@@ -11,7 +11,6 @@
 # Version: v1
 ####################
 
-
 set -x ## Debug mode
 
 df -h # check disk
